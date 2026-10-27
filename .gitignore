@@ -1,0 +1,27 @@
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Windows and macOS
+Thumbs.db
+.DS_Store
+
+# IDE settings
+.idea/
+
+# Build directories
+bin/
+obj/
+
+# Python cache
+__pycache__/
+*.pyc
